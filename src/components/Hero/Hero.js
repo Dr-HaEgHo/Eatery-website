@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 
 const Hero = () => {
-  return <div className='container hero'> 
+    return <div className='container hero'> 
             <div className='content'>
                 <p className='rest'>— Restaurants</p>
                 <h1>Enjoy Delicious Food at Popular Prices</h1>
