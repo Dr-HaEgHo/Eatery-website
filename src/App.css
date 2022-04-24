@@ -8,7 +8,6 @@
   font-family: 'Poppins', sans-serif;
 }
 
-
 .shadow-orange {
   box-shadow: 3px 8px 10px rgba(231, 157, 19, 0.3);
 }
@@ -48,9 +47,6 @@
   border: 2px rgb(231, 157, 19) solid;
   background: rgb(255, 255, 255);
 }
-
-
-
 
 .container{
   width: 90%;
