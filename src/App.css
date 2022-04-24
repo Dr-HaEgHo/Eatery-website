@@ -3,3 +3,14 @@
   margin: 0;
 }
 
+.container{
+  width: 90%;
+  margin: auto;
+
+}
+
+@media (min-width: 1124px){
+  .container{
+    max-width: 1124px;
+  }
+}
