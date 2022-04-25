@@ -10,7 +10,7 @@ const Testimonials = () => {
                     <p className='testi'>— Testimonials</p>
                     <h2 className='testi-h2'>That's what our client says</h2>
                     <p className='testi-content'> 
-                        "41-Eatery is an awesome place. Offd is everything we are. It's an extension of nationalist feeling, ethnic feeling, your personal history, your province"
+                        "41-Eatery is an awesome place. Food is everything we are. It's an extension of nationalist feeling, ethnic feeling, your personal history, your province"
                     </p>
                     <h4 className='testi-client'>
                         Anne Jared 
