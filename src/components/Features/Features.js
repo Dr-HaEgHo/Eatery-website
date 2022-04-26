@@ -1,4 +1,8 @@
 import React from 'react'
+import dish from '../../assets/dish.png'
+import snack from '../../assets/snack.png'
+import vegetarian from '../../assets/vegetarian.png'
+import support from '../../assets/customer-service.png'
 
 const Features = () => {
   return <div className='section-2'>
