@@ -1,6 +1,6 @@
 import React from 'react'
 import "./contact.css"
-import dish from './dish.png'
+import dish from '../../assets/dish.png'
 function Contact() {
     return ( 
         <div className='contact'> 
