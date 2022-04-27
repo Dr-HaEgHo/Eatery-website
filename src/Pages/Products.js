@@ -100,7 +100,8 @@ function Products() {
 
   return (
     <section className="products">
-      <div className="products__header">
+      <div className="container ">
+        <div className="products__header">
         <h1>Products</h1>
       </div>
 
@@ -127,6 +128,7 @@ function Products() {
         {productList.map((product) => (
           <ProductCard key={product.id} product={product} />
         ))}
+      </div>
       </div>
     </section>
   );

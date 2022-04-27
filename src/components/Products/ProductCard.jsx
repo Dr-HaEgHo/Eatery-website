@@ -5,18 +5,26 @@ function ProductCard({ product }) {
   const { name, imgURL, price } = product;
 
   return (
-    <div className="productCard">
-      <div className="productCard__img">
-        <img src={imgURL} alt={name} />
+      <div className='menus'>
+          <div className='pic'>
+              <img src={imgURL} alt={name}></img>
+          </div>
+          <div className='menu-cont'>
+              <h4>{name}</h4>
+              <div className='price'>
+                  <div className='counter'>
+                      <p>-</p>
+                      <p>0</p>
+                      <p className='red'>+</p>
+                  </div>
+                  <div className='num-cart'>
+                              <p>${ price }</p>
+                      <span role='img' aria-hidden='true'>🛒</span>
+                  </div>
+              </div>
+          </div>
       </div>
-
-      <div className="productCard__content">
-        <h4 className="productCard__title">{name}</h4>
-
-        <p className="productCard__price">&#8358;{price}</p>
-      </div>
-    </div>
-  );
+  )
 }
 
 export default ProductCard;
