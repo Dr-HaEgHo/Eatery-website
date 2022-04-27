@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Eatery-website/static/css/main.5707261a.css",
+    "main.js": "/Eatery-website/static/js/main.b0505950.js",
+    "static/js/787.fc831b8b.chunk.js": "/Eatery-website/static/js/787.fc831b8b.chunk.js",
+    "static/media/dish.png": "/Eatery-website/static/media/dish.2c39286d7c2db626ae88.png",
+    "static/media/woman-eating.jpg": "/Eatery-website/static/media/woman-eating.514861026167261d9270.jpg",
+    "static/media/about.png": "/Eatery-website/static/media/about.40df2135c6c8c5a7f432.png",
+    "static/media/vegetarian.png": "/Eatery-website/static/media/vegetarian.e1bd6af97c44d872e143.png",
+    "static/media/customer-service.png": "/Eatery-website/static/media/customer-service.1187a38fcceb14b761d5.png",
+    "static/media/snack.png": "/Eatery-website/static/media/snack.4f501bc4e8c8d33903b3.png",
+    "index.html": "/Eatery-website/index.html",
+    "main.5707261a.css.map": "/Eatery-website/static/css/main.5707261a.css.map",
+    "main.b0505950.js.map": "/Eatery-website/static/js/main.b0505950.js.map",
+    "787.fc831b8b.chunk.js.map": "/Eatery-website/static/js/787.fc831b8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5707261a.css",
+    "static/js/main.b0505950.js"
+  ]
+}
